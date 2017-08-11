@@ -1,6 +1,22 @@
 How to use SHC Bash Script Compiler
 
 
+Install "make"
+sudo apt-get install make
+
+Install G++
+sudo apt-get install g++
+
+Install C++
+sudo apt-get install c++ 
+
+
+-----------------------------------------
+INSTALL IN YOUR Os
+----------------------------------------
+http://opensourceforu.com/2016/03/shc-shell-script-compiler-an-introduction/
+------------------------------------------
+
 
 copy shc binary to /bin (cp shc /bin)
 give execute permissions (chmod +x /bin/shc)
