@@ -17,6 +17,10 @@ INSTALL IN YOUR Os
 http://opensourceforu.com/2016/03/shc-shell-script-compiler-an-introduction/
 ------------------------------------------
 
+-----------------------------------------
+https://www.kaskus.co.id/thread/54f7231a138b46de758b4570/cara-encrypt-bash-script/
+-----------------------------------------
+
 
 copy shc binary to /bin (cp shc /bin)
 give execute permissions (chmod +x /bin/shc)
